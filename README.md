@@ -15,3 +15,8 @@ A static clone of the Netflix homepage created using only HTML and CSS. This pro
 
 - ✅ HTML5
 - ✅ CSS3 (Flexbox & Grid)
+
+## 🔗 Author
+
+Shruti Gugilwar  
+GitHub: https://github.com/shrutigugilwar
